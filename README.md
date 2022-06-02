@@ -1,4 +1,4 @@
-# HACK AGRICULTURAL TECHNOLOGY
+# HACK AG TECH
 
 Join us to ideate, prototype, and explore digital solutions for resilient food and agricultural systems! In the lead up to this event, we will host online discussions to allow participants to connect, form teams, and identify projects of common interest.
 
@@ -8,7 +8,7 @@ An interest in digital agriculture is expected, with minimal programming experie
 
 **[Register](https://bit.ly/hackagtech) by July 1.** We will be sending preparatory information and updating this site as we get closer to the event.
 
-# Important Dates
+## Important Dates
 
 **[Registration Closes](https://bit.ly/hackagtech): July 1, 11.59pm anywhere time**
 
@@ -20,9 +20,7 @@ Hack-day: Sun, July 17, 8am to 4.30pm CT, Houston, Texas @ ASABE Conference. Day
 
 Demos: Wed, July 20, 10:15am to 12:15pm CT, Houston, Texas @ ASABE Conference. More information coming soon.
 
-# CHALLENGE AREAS (coming soon)
-
-# FAQ
+## FAQ
 
 ### What is the expected time commitment?
 Prepatory work including team-formation and preparation of a pitch video is expected between July 1-8. A one-hour pitch session will happen on July 8, if you can't make the dedicated time, you can submit your pitch video in advance. Essentially, you get what you put in. A compelling project will require commitment from all team members, so be prepared to spend most of the actual hack-day (July 17) working on your project. There is a demo session on the July 20 - again, you can demo live or submit a video if you have a conflict.
@@ -44,3 +42,5 @@ In the registration form, we ask about your areas of expertise so that we can li
 ### I don’t code — what about me?
 
 It completely depends on your project. The goal here is to create something compelling to the community. It is entirely possible to create a compelling data schema, or build out a compelling front-end design for a common application. While coding certainly helps, it is not required. Though, as stated before, you do need to have an idea coming in!
+
+## Challenge Areas(coming soon)
