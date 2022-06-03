@@ -48,3 +48,11 @@ In the registration form, we ask about your areas of expertise so that we can li
 It completely depends on your project. The goal here is to create something compelling to the community. It is entirely possible to create a compelling data schema, or build out a compelling front-end design for a common application. While coding certainly helps, it is not required. Though, as stated before, you do need to have an idea coming in!
 
 ## Challenge Areas (coming soon)
+
+#### Organizers
+Ankita Raturi, Purdue University
+Joe Dvorak, University of Kentucky
+Aaron Ault, Purdue University
+Dharmendra Saraswat, Purdue University
+Dennis Buckmaster, Purdue University
+Jim Krogmeier, Purdue University
