@@ -1,3 +1,5 @@
+# [Register Now](https://bit.ly/hackagtech)
+
 ![](/img/fieldkit.png)
 
 # HACK AG.TECH
