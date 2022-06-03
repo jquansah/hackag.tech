@@ -1,3 +1,5 @@
+![](/img/fieldkit.png)
+
 # HACK AG.TECH
 
 Join us to ideate, prototype, and explore digital solutions for resilient food and agricultural systems! In the lead up to this event, we will host online discussions to allow participants to connect, form teams, and identify projects of common interest.
