@@ -49,10 +49,15 @@ It completely depends on your project. The goal here is to create something comp
 
 ## Challenge Areas (coming soon)
 
-#### Organizers
+## Organizers
+
 Ankita Raturi, Purdue University
+
 Joe Dvorak, University of Kentucky
+
 Aaron Ault, Purdue University
+
 Dharmendra Saraswat, Purdue University
+
 Dennis Buckmaster, Purdue University
 Jim Krogmeier, Purdue University
