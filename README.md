@@ -1,4 +1,4 @@
-# [Register Now](https://bit.ly/hackagtech)
+# [Register By July 1!](https://bit.ly/hackagtech)
 
 ![](/img/fieldkit.png)
 
@@ -10,7 +10,7 @@ At ASABE, we will spend the day together making prototypes, from conceptual diag
 
 An interest in digital agriculture is expected, with minimal programming experience. This is a hands-on experiential learning experience, and we encourage students from all disciplines to come! Pre-registration is required.
 
-**[Register](https://bit.ly/hackagtech) by July 1.** We will be sending preparatory information and updating this site as we get closer to the event.
+**[Register by July 1!](https://bit.ly/hackagtech)** We will be sending preparatory information and updating this site as we get closer to the event.
 
 ## Important Dates
 
