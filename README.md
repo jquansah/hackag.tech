@@ -1,4 +1,4 @@
-# [Register By July 1!](https://bit.ly/hackagtech)
+# :sunny: [Register By July 1](https://bit.ly/hackagtech) :sunny:
 
 ![](/img/fieldkit.png)
 
