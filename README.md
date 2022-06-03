@@ -10,11 +10,10 @@ At ASABE, we will spend the day together making prototypes, from conceptual diag
 
 An interest in digital agriculture is expected, with minimal programming experience. This is a hands-on experiential learning experience, and we encourage students from all disciplines to come! Pre-registration is required.
 
-**[Register by July 1!](https://bit.ly/hackagtech)** We will be sending preparatory information and updating this site as we get closer to the event.
-
 ## Important Actions + Dates
 
-**[Registration Closes](https://bit.ly/hackagtech): July 1, 11.59pm anywhere time** After registration, you will join the Agricultural Informatics Learning Community Slack Workspace.
+**[Registration by July 1](https://bit.ly/hackagtech)** After registration, you will join the Agricultural Informatics Learning Community Slack Workspace. We will be updating this site and sending you more information as we get closer to the event.
+
 
 Team Formation: July 1 to July 8, online discussion forum. More information coming soon.
 
