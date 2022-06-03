@@ -12,9 +12,9 @@ An interest in digital agriculture is expected, with minimal programming experie
 
 **[Register by July 1!](https://bit.ly/hackagtech)** We will be sending preparatory information and updating this site as we get closer to the event.
 
-## Important Dates
+## Important Actions + Dates
 
-**[Registration Closes](https://bit.ly/hackagtech): July 1, 11.59pm anywhere time**
+**[Registration Closes](https://bit.ly/hackagtech): July 1, 11.59pm anywhere time** After registration, you will join the Agricultural Informatics Learning Community Slack Workspace.
 
 Team Formation: July 1 to July 8, online discussion forum. More information coming soon.
 
