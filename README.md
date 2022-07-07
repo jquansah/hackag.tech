@@ -1,5 +1,3 @@
-# [Register By July 1!](https://bit.ly/hackagtech)
-
 ![](/img/fieldkit.png)
 
 # HACK AG.TECH
@@ -16,16 +14,17 @@ An interest in digital agriculture is expected, with minimal programming experie
 
 
 ### Meet & Greet Session 
-July 8, 11am CT, online. You should have received an email containing logsitics:
+**Fri, July 8, 11am CT, online.** 
+You should have received an email containing logsitics:
 - **WorkAdventure virtual meeting space:** We'll be in Meeting Room #2 for the meet & greet session. You can hop in and out of this space in the week leading up to the event to chat amongst yourselves. Use this space for synchronous discussion.
 - **Slack discussion channels:** I've added all of you to the Slack channel for the hackathon. Use this space for asynchronous discussion. Feel free to create groups for your own use.
 - **Miro brainstorming and presentation workspace:** Use this space to refer to materials we share + use it for your own brainstorming. I've created spaces for teams to work in.
 
 ### Mentor Office Hours
-July 13, 2pm-3.30pm CT in WorkAdventure Meeting Room #2. You can check-in with a mentor to assess your project scope, progress (if any), and determine an appropriate deliverable. Mentors will also be available via Slack as needed. 
+**Wed, July 13, 2pm-3.30pm CT** in WorkAdventure Meeting Room #2. You can check-in with a mentor to assess your project scope, progress (if any), and determine an appropriate deliverable. Mentors will also be available via Slack as needed. 
 
 ### Hack-day
-Sun, July 17, 8am to 4.30pm CT, Houston, Texas @ ASABE Conference. Day-of Agenda:
+**Sun, July 17, 8am to 4.30pm CT**, Houston, Texas @ ASABE Conference. Day-of Agenda:
 
 Time | Activity | Deliverables
 8.30am | Welcomes | 
@@ -35,7 +34,7 @@ Time | Activity | Deliverables
 4pm | Group Report out | Teams Report on Progress.
 
 ### Final Demos
-Wed, July 20, 10:15am to 12:15pm CT, Houston, Texas @ ASABE Conference. **You will present your final deliverable**
+**Wed, July 20, 10:15am to 12:15pm CT**, Houston, Texas @ ASABE Conference. **You will present your final deliverable**
 
 ## FAQ
 
