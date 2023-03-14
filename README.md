@@ -3,7 +3,11 @@
 # HACK AG.TECH
 
 Join us to ideate, prototype, and explore digital solutions for resilient food and agricultural systems! In the lead up to this event, we will host online discussions to allow participants to connect, form teams, and identify projects of common interest. 
+
+Professionals, students and faculty are all invited to participate.
+
 At ASABE, we will spend the day together making prototypes, from conceptual diagrams, to web apps, and IoT systems - it’s a choose your own adventure! A laptop is required for this workshop. 
+
 An interest in digital agriculture is expected, with minimal programming experience. This is a hands-on experiential learning experience, and we encourage students from all disciplines to come! Pre-registration is ~~required~~ **strongly** encouraged.
 
 ## Important Actions + Dates
@@ -27,16 +31,19 @@ After registration, you will join the Agricultural Informatics Learning Communit
 ### Virtual Sessions
 
 **April 13th, 3:30 to 4:30 Central Time, online in WorkAdventure**
+
 Learn more about the Hack Ag.Tech Hackathon and decide to signup!
 
 **May 15th, 11am - Noon Central Time, online in WorkAdventure**
+
 Come find your herd! Ask questions
 
 **June 20th, 3pm - 4pm Central Time, online in WorkAdventure**
+
 Finalize your project teams
 
 #### Mentor Office Hours
-Mentor office hours are available by appointment between the Virtual Sessions in WorkAdventure Meeting Room #2. You can check-in with a mentor to assess your project scope, progress (if any), and determine an appropriate deliverable. Mentors will also be available via Slack as needed.
+Mentors are Hackathon process mentors. We can address questions about team formation, how the Hackathon will operate and what tools may be available. Mentor office hours are available by appointment between the Virtual Sessions in WorkAdventure Meeting Room #2. You can check-in with a mentor to assess your project scope, progress (if any), and determine an appropriate deliverable. Mentors will also be available via Slack as needed.
 
 ### Collaboration Tools and Links
 
@@ -48,7 +55,9 @@ Mentor office hours are available by appointment between the Virtual Sessions in
 ### Hackathon Kick-Off (Hack-Day)
 
 **Sun, July 9, 8am to 4.30pm Central Time**, Omaha, Nebraska @ ASABE Conference. 
+
 **Location:** Hack-a-thon Area in the Exhibit Hall
+
 **Agenda:**
 
 | Time | Activity | Deliverables |
@@ -61,12 +70,16 @@ Mentor office hours are available by appointment between the Virtual Sessions in
 
 ### Hackathon Work (write, test, write, test, write, test...)
 **Mon, July 10 to Wed, July 12, 10am Central Time**, Omaha, Nebraska @ ASABE Conference. 
+
 **Location:** Hack-a-thon Area in the Exhibit Hall
+
 Work on your designs! Ask for help from people that stop by! The space is yours.
 
 ### Final Demos
 **Wed, July 12, 10:15am to 12:15pm Central Time**, Omaha, Nebraska @ ASABE Conference. 
+
 **Location:** Hack-a-thon Area in the Exhibit Hall
+
 **You will present your final deliverable.** Winners will be announced after a short pause to tally votes.
 
 ## FAQ
