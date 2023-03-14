@@ -42,9 +42,6 @@ Come find your herd! Ask questions
 
 Finalize your project teams
 
-#### Mentor Office Hours
-Mentors are Hackathon process mentors. We can address questions about team formation, how the Hackathon will operate and what tools may be available. Mentor office hours are available by appointment between the Virtual Sessions in WorkAdventure Meeting Room #2. You can check-in with a mentor to assess your project scope, progress (if any), and determine an appropriate deliverable. Mentors will also be available via Slack as needed.
-
 ### Collaboration Tools and Links
 
 - **WorkAdventure virtual meeting space:** (link coming) We'll be in Meeting Room #2 for the meet & greet session. You can hop in and out of this space in the week leading up to the event to chat amongst yourselves. Use this space for synchronous discussion.
