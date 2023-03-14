@@ -4,7 +4,7 @@
 
 Join us to ideate, prototype, and explore digital solutions for resilient food and agricultural systems! In the lead up to this event, we will host online discussions to allow participants to connect, form teams, and identify projects of common interest. 
 
-Professionals, students and faculty are all invited to participate.
+This is a hands-on experiential learning experience, and we encourage people from all disciplines to come! This event is not just for students! Bring your whole team!
 
 At ASABE, we will spend the day together making prototypes, from conceptual diagrams, to web apps, and IoT systems - it’s a choose your own adventure! A laptop is required for this workshop. 
 
