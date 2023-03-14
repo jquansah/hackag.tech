@@ -26,13 +26,13 @@ After registration, you will join the Agricultural Informatics Learning Communit
 
 ### Virtual Sessions
 
-**April 13th, 4:30 to 5:30, online in WorkAdventure**
+**April 13th, 3:30 to 4:30 Central Time, online in WorkAdventure**
 Learn more about the Hack Ag.Tech Hackathon and decide to signup!
 
-**May 15th, Noon - 1pm, online in WorkAdventure**
+**May 15th, 11am - Noon Central Time, online in WorkAdventure**
 Come find your herd! Ask questions
 
-**June 20th, 4pm - 5pm, online in WorkAdventure**
+**June 20th, 3pm - 4pm Central Time, online in WorkAdventure**
 Finalize your project teams
 
 #### Mentor Office Hours
@@ -47,7 +47,7 @@ Mentor office hours are available by appointment between the Virtual Sessions in
 ## The Hackathon
 ### Hackathon Kick-Off (Hack-Day)
 
-**Sun, July 9, 8am to 4.30pm CT**, Omaha, Nebraska @ ASABE Conference. 
+**Sun, July 9, 8am to 4.30pm Central Time**, Omaha, Nebraska @ ASABE Conference. 
 **Location:** Hack-a-thon Area in the Exhibit Hall
 **Agenda:**
 
@@ -60,12 +60,12 @@ Mentor office hours are available by appointment between the Virtual Sessions in
 | 4pm | Group Report out | Teams Report on Progress. |
 
 ### Hackathon Work (write, test, write, test, write, test...)
-**Mon, July 10 to Wed, July 12, 10am**, Omaha, Nebraska @ ASABE Conference. 
+**Mon, July 10 to Wed, July 12, 10am Central Time**, Omaha, Nebraska @ ASABE Conference. 
 **Location:** Hack-a-thon Area in the Exhibit Hall
 Work on your designs! Ask for help from people that stop by! The space is yours.
 
 ### Final Demos
-**Wed, July 12, 10:15am to 12:15pm CT**, Omaha, Nebraska @ ASABE Conference. 
+**Wed, July 12, 10:15am to 12:15pm Central Time**, Omaha, Nebraska @ ASABE Conference. 
 **Location:** Hack-a-thon Area in the Exhibit Hall
 **You will present your final deliverable.** Winners will be announced after a short pause to tally votes.
 
