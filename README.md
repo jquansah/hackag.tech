@@ -2,53 +2,86 @@
 
 # HACK AG.TECH
 
-Join us to ideate, prototype, and explore digital solutions for resilient food and agricultural systems! In the lead up to this event, we will host online discussions to allow participants to connect, form teams, and identify projects of common interest.
-
-At ASABE, we will spend the day together making prototypes, from conceptual diagrams, to web apps, and IoT systems - it’s a choose your own adventure! A laptop is required for this workshop.
-
-An interest in digital agriculture is expected, with minimal programming experience. This is a hands-on experiential learning experience, and we encourage students from all disciplines to come! Pre-registration is required.
+Join us to ideate, prototype, and explore digital solutions for resilient food and agricultural systems! In the lead up to this event, we will host online discussions to allow participants to connect, form teams, and identify projects of common interest. 
+At ASABE, we will spend the day together making prototypes, from conceptual diagrams, to web apps, and IoT systems - it’s a choose your own adventure! A laptop is required for this workshop. 
+An interest in digital agriculture is expected, with minimal programming experience. This is a hands-on experiential learning experience, and we encourage students from all disciplines to come! Pre-registration is ~~required~~ **strongly** encouraged.
 
 ## Important Actions + Dates
 
-**[Registration by July 1](https://bit.ly/hackagtech)** After registration, you will join the Agricultural Informatics Learning Community Slack Workspace. We will be updating this site and sending you more information as we get closer to the event.
+### Registration Dates & Links
 
+**[Early Bird Registration by May 1](https://bit.ly/hackagtech)** 
+- For all participants to join the Virtual Planning Session, and help create team ideas.
+- For students interested in sponsorship to ASABE AIM and the Hackathon.
 
-### Meet & Greet Session 
-**Fri, July 8, 11am CT, online.** 
-You should have received an email containing logsitics:
-- **WorkAdventure virtual meeting space:** We'll be in Meeting Room #2 for the meet & greet session. You can hop in and out of this space in the week leading up to the event to chat amongst yourselves. Use this space for synchronous discussion.
-- **Slack discussion channels:** I've added all of you to the Slack channel for the hackathon. Use this space for asynchronous discussion. Feel free to create groups for your own use.
-- **Miro brainstorming and presentation workspace:** Use this space to refer to materials we share + use it for your own brainstorming. I've created spaces for teams to work in.
+**[Registration by July 1](https://bit.ly/hackagtech)** 
+- For all participants for food and supplies planning on the main Hackathon Day.
 
-### Mentor Office Hours
-**Wed, July 13, 2pm-3.30pm CT** in WorkAdventure Meeting Room #2. You can check-in with a mentor to assess your project scope, progress (if any), and determine an appropriate deliverable. Mentors will also be available via Slack as needed. 
+**[Late or onsite Registration](https://bit.ly/hackagtech)**
+- Sign-up and join a team! It is never to late to contribute and join the fun!
+- If you register onsite at AIM or after July 1, you will need to join a team that has already formed. 
+- Lunch and refreshments on the main Hackathon day cannot be guaranteed. 
 
-### Hack-day
-**Sun, July 17, 8am to 4.30pm CT**, Houston, Texas @ ASABE Conference. Day-of Agenda:
+After registration, you will join the Agricultural Informatics Learning Community Slack Workspace. We will be updating this site and sending you more information as we get closer to the event.
 
-Time | Activity | Deliverables
-8.30am | Welcomes | 
-9am | Team Pitches | Teams to Present. Sign up on Miro!
-10am | Work Begins |
-12pm | Mentor Check-In
-4pm | Group Report out | Teams Report on Progress.
+### Virtual Sessions
+
+**April 13th, 4:30 to 5:30, online in WorkAdventure**
+Learn more about the Hack Ag.Tech Hackathon and decide to signup!
+
+**May 15th, Noon - 1pm, online in WorkAdventure**
+Come find your herd! Ask questions
+
+**June 20th, 4pm - 5pm, online in WorkAdventure**
+Finalize your project teams
+
+#### Mentor Office Hours
+Mentor office hours are available by appointment between the Virtual Sessions in WorkAdventure Meeting Room #2. You can check-in with a mentor to assess your project scope, progress (if any), and determine an appropriate deliverable. Mentors will also be available via Slack as needed.
+
+### Collaboration Tools and Links
+
+- **WorkAdventure virtual meeting space:** (link coming) We'll be in Meeting Room #2 for the meet & greet session. You can hop in and out of this space in the week leading up to the event to chat amongst yourselves. Use this space for synchronous discussion.
+- **[Slack discussion channels:](https://learn-ag-informatics.slack.com/archives/C04TT5DSAMA)** Use this space for asynchronous discussion. Feel free to create groups for your own use.
+- **Miro brainstorming and presentation workspace:** (link coming) Use this space to refer to materials we share + use it for your own brainstorming. We will create spaces for teams to work in.
+
+## The Hackathon
+### Hackathon Kick-Off (Hack-Day)
+
+**Sun, July 9, 8am to 4.30pm CT**, Omaha, Nebraska @ ASABE Conference. 
+**Location:** Hack-a-thon Area in the Exhibit Hall
+**Agenda:**
+
+| Time | Activity | Deliverables |
+| ---- | -------- | ------------ |
+| 8.30am | Welcomes | |
+| 9am | Team Pitches | Teams to Present. Sign up on Miro! |
+| 10am | Work Begins | |
+| 12pm | Mentor Check-In | |
+| 4pm | Group Report out | Teams Report on Progress. |
+
+### Hackathon Work (write, test, write, test, write, test...)
+**Mon, July 10 to Wed, July 12, 10am**, Omaha, Nebraska @ ASABE Conference. 
+**Location:** Hack-a-thon Area in the Exhibit Hall
+Work on your designs! Ask for help from people that stop by! The space is yours.
 
 ### Final Demos
-**Wed, July 20, 10:15am to 12:15pm CT**, Houston, Texas @ ASABE Conference. **You will present your final deliverable**
+**Wed, July 12, 10:15am to 12:15pm CT**, Omaha, Nebraska @ ASABE Conference. 
+**Location:** Hack-a-thon Area in the Exhibit Hall
+**You will present your final deliverable.** Winners will be announced after a short pause to tally votes.
 
 ## FAQ
 
 ### What is the expected time commitment?
-Prepatory work including team-formation and preparation of a pitch presentation is expected between July 8-15. A one-hour pitch session will happen at the beginning of the event.
+Prepatory work including team-formation and preparation of a pitch presentation is expected between registration and the start of the conference. A one-hour pitch session will happen at the beginning of the event.
 
-Essentially, you get what you put in. A compelling project will require commitment from all team members, so be prepared to spend most of the actual hack-day (July 17) working on your project. There is a demo session on the July 20 - again, you can demo live or submit a video if you have a conflict.
+Essentially, you get what you put in. A compelling project will require commitment from all team members, so be prepared to spend most of the actual hack-day and time during the conference working on your project. There are no time commitments during the conference - It is just open work time when you aren't involved in technical presentations or other committments. There is a demo session on the final day during the last technical session. Hopefully you can make it to the demo session, but again, you can demo live or submit a video if you have a conflict.
 
 ### Is this mostly hardware, software, or what?
 All of the above, but primarily leaning toward the development of information tools. So everything from: new sensors for on-farm data collection, new ways to visualization resource flows, mechanisms to handle data interoperability, to ways to connect existing open source software to support sustainable agricultural practices.
 
 ### How do teams work?
 
-Between July 8-15 you can form a team using our dedicated slack channel. You should have an idea and a team (one or many), but it’s completely ok to switch teams, adjust teams, or even adjust whole ideas once you get here. This is an outcome-focused hackathon – we care only that we make the most compelling stuff for the open-agriculture technology community we possibly can! Here is an example hackathon group formation:
+After registering, you can form a team using our dedicated slack channel. You should have an idea and a team (one or many), but it’s completely ok to switch teams, adjust teams, or even adjust whole ideas once you get here. This is an outcome-focused hackathon – we care only that we make the most compelling stuff for the open-agriculture technology community we possibly can! Here is an example hackathon group formation:
 
     - Problem owner and/or domain expert
     - Designer and/or architect
