@@ -14,6 +14,9 @@ An interest in digital agriculture is expected, with minimal programming experie
 
 ### Registration Dates & Links
 
+Click on any link below to register or click here as well: https://bit.ly/hackagtech
+On the linked page scroll down and enter your information!
+
 **[Early Bird Registration by May 1](https://bit.ly/hackagtech)** 
 - For all participants to join the Virtual Planning Session, and help create team ideas.
 - For students interested in sponsorship to ASABE AIM and the Hackathon.
