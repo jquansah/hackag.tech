@@ -33,10 +33,6 @@ After registration, you will join the Agricultural Informatics Learning Communit
 
 ### Virtual Sessions
 
-**April 13th, 3:30 to 4:30 Central Time, online in WorkAdventure**
-
-Learn more about the Hack Ag.Tech Hackathon and decide to signup!
-
 **May 15th, 11am - Noon Central Time, online in WorkAdventure**
 
 Come find your herd! Ask questions
