@@ -14,7 +14,8 @@ An interest in digital agriculture is expected, with minimal programming experie
 
 ### Registration Dates & Links
 
-Click on any link below to register or click here as well: https://bit.ly/hackagtech
+Click on any link below to register or click here as well: [https://bit.ly/hackagtech](https://bit.ly/hackagtech)
+
 On the linked page scroll down and enter your information!
 
 **[Early Bird Registration by May 1](https://bit.ly/hackagtech)** 
