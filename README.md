@@ -3,12 +3,13 @@
 # HACK AG.TECH
 
 Join us to ideate, prototype, and explore digital solutions for resilient food and agricultural systems! In the lead up to this event, we will host online discussions to allow participants to connect, form teams, and identify projects of common interest. 
-
-This is a hands-on experiential learning experience, and we encourage people from all disciplines to come! This event is not just for students! Bring your whole team!
-
+ 
 At ASABE, we will spend the day together making prototypes, from conceptual diagrams, to web apps, and IoT systems - it’s a choose your own adventure! A laptop is required for this workshop. 
 
-An interest in digital agriculture is expected, with minimal programming experience. This is a hands-on experiential learning experience, and we encourage students from all disciplines to come! Pre-registration is ~~required~~ **strongly** encouraged.
+Throughout the conference we will continue to work on our designs. All groups will present their creations during the final technical session period on Wednesday with judging and winners announced immediately.
+ 
+An interest in digital agriculture is expected, with minimal programming experience. This is a hands-on experiential learning experience, and we encourage students from all disciplines to come! Pre-registration is required.
+
 
 ## Important Actions + Dates
 
@@ -66,14 +67,14 @@ Finalize your project teams
 | 4pm | Group Report out | Teams Report on Progress. |
 
 ### Hackathon Work (write, test, write, test, write, test...)
-**Mon, July 10 to Wed, July 12, 10am Central Time**, Omaha, Nebraska @ ASABE Conference. 
+**Mon, July 10 to Wed, July 12, 10am Pacific Time**, Anaheim, California @ ASABE Conference. 
 
 **Location:** Hack-a-thon Area in the Exhibit Hall
 
 Work on your designs! Ask for help from people that stop by! The space is yours.
 
 ### Final Demos
-**Wed, July 12, 10:15am to 12:15pm Central Time**, Omaha, Nebraska @ ASABE Conference. 
+**Wed, July 12, 10:15am to 12:15pm Pacific Time**, Anaheim, California @ ASABE Conference. 
 
 **Location:** Hack-a-thon Area in the Exhibit Hall
 
