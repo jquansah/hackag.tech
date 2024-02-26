@@ -51,7 +51,7 @@ Finalize your project teams
 ## The Hackathon
 ### Hackathon Kick-Off (Hack-Day)
 
-**Sun, July 9, 8am to 4.30pm Central Time**, Omaha, Nebraska @ ASABE Conference. 
+**Sun, July 28, 8am to 4.30pm Pacific Time (PT)**, Anaheim, California @ ASABE Conference. 
 
 **Location:** Hack-a-thon Area in the Exhibit Hall
 
