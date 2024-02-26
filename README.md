@@ -142,9 +142,11 @@ Genres of technology that may fit in this challenge area include:
 
 ## Organizers
 
-Ankita Raturi, Purdue University
-
 Joe Dvorak, University of Kentucky
+
+Joseph Quansah, Tuskegee University
+
+Ankita Raturi, Purdue University
 
 Aaron Ault, Purdue University
 
@@ -152,4 +154,9 @@ Dharmendra Saraswat, Purdue University
 
 Dennis Buckmaster, Purdue University
 
-Jim Krogmeier, Purdue University
+ Jim Krogmeier, Purdue University
+
+Tanya Dvorak, University of Kentucky
+
+Souleymane Fall, Tuskegee University
+
