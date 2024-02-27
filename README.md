@@ -67,14 +67,16 @@ Finalize your project teams
 | 4pm | Group Report out | Teams Report on Progress. |
 
 ### Hackathon Work (write, test, write, test, write, test...)
-**Mon, July 10 to Wed, July 12, 10am Pacific Time**, Anaheim, California @ ASABE Conference. 
+**Mon, July 29 to Wed, July 31, 10am Pacific Time**, Anaheim, California @ ASABE Conference. 
 
 **Location:** Hack-a-thon Area in the Exhibit Hall
 
-Work on your designs! Ask for help from people that stop by! The space is yours.
+The Hack-a-thon teams will be working on their designs and developing them throughout the conference. Feel free to stop by and check out the work. 
+
+See something interesting? Feel free to ask the team how you help! We can always use more participants. 
 
 ### Final Demos
-**Wed, July 12, 10:15am to 12:15pm Pacific Time**, Anaheim, California @ ASABE Conference. 
+**Wed, July 31, 10:15am to 12:15pm Pacific Time**, Anaheim, California @ ASABE Conference. 
 
 **Location:** Hack-a-thon Area in the Exhibit Hall
 
